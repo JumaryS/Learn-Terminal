@@ -10,7 +10,7 @@ Joshua and Jumary terminal command lines
 
 # The basics
 
-     * lets start with making a directory in your terminal by using mkdir
+     * lets start with making a directory in your terminal by using mkdir (make directory)
      *  name it what ever you want 
-     *  now lets access your newly made directory by using cd 
+     *  now lets access your newly made directory by using cd (change directory)
    

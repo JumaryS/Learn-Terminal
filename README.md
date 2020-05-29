@@ -8,10 +8,14 @@ Joshua and Jumary terminal command lines
 
 
 
-# The basics
+# command line tutorial
 
-     * lets start with making a directory in your terminal by using mkdir (make directory)
-     *  name it what ever you want 
-     *  now lets access your newly made directory by using cd (change directory)
-     * cd (name of file) then press enter
-     * once you are in your new directory we can start creating files within by using the word (touch)
+     # 1.lets start with making a directory in your terminal by using mkdir (make directory)
+     # 2.name it what ever you want 
+     # 3.Now lets access your newly made directory by using cd (change directory)
+     # 4. (name of file) then press enter
+     # 5.once you are in your new directory we can start creating files within by using the word (touch) for example touch (name of file you want) and then press enter
+     
+
+
+

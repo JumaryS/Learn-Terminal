@@ -14,7 +14,7 @@ Joshua and Jumary terminal command lines
 
        2. Name the directory what ever you want 
 
-       [](https://www.cyberciti.biz/media/new/images/faq/2013/07/mkdir-demo.gif)
+       ![mkdir gif](https://www.cyberciti.biz/media/new/images/faq/2013/07/mkdir-demo.gif)
 
        3. Make sure to verify by usuing ls or (list) to view whats in your directory.
 
